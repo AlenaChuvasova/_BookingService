@@ -1,0 +1,70 @@
+
+
+Pull requests
+Issues
+Marketplace
+Explore
+
+@KirylShalpuk
+ Unwatch 2
+ Star 0
+ Fork 6 AlexKolonitsky/TimesheetManagement
+forked from TicTacT0e/stormnet-timesheet
+ Code  Issues 22  Pull requests 1  Projects 1  Wiki  Security  Insights
+Branch: master
+TimesheetManagement/.gitignore
+Find file Copy path
+@TicTacT0e TicTacT0e resolved conflict with master
+1d98d7a on 16 Mar
+1 contributor
+36 lines (28 sloc)  357 Bytes
+RawBlameHistory
+
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Intellij
+.idea/
+*.iws
+out/
+classes/
+
+# Maven
+log/
+target/
+
+# iml files
+*.iml
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+© 2019 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
